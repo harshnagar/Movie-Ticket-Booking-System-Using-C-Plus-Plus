@@ -9,6 +9,8 @@ Features:
 5) View all Booking Records only for Admin
 
 Main Menu 
+
+
 <img width="382" alt="Main_menu" src="https://github.com/harshnagar/Movie-Ticket-Booking-System-Using-C-Plus-Plus/assets/35253819/ac149c2d-6874-47b0-8505-1dd7ffa2bd0c">
 
 Book Movie Ticket opt1
@@ -20,4 +22,3 @@ Thankyou,
 Harsh Nagar
 
 
-#c++ #C++projects #moviebookingprojects #ticketbookingsystem #movieticketbookingprojectusingc++
